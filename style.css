@@ -1,1 +1,39 @@
+body {
+  background-color: #333; /* Cor de fundo #333 (cinza escuro) */
+  color: #fff; /* Cor do texto branca */
+  font-family: Arial, sans-serif; /* Fonte padrão */
+  margin: 0; /* Remova as margens padrão para evitar espaços em branco */
+  padding: 0; /* Remova o preenchimento padrão */
+}
 
+.container {
+  margin-top: 20px; /* Espaçamento superior para o conteúdo */
+}
+
+.card {
+  background-color: #444; /* Cor de fundo dos cartões */
+  color: #fff; /* Cor do texto dentro dos cartões */
+  border: none; /* Remova as bordas dos cartões */
+  border-radius: 0; /* Remova os cantos arredondados dos cartões */
+  margin-bottom: 20px; /* Espaçamento entre os cartões */
+}
+
+.card-title {
+  font-size: 1.5rem; /* Tamanho da fonte do título do cartão */
+  margin-bottom: 10px; /* Espaçamento inferior do título do cartão */
+}
+
+.card-text {
+  font-size: 1rem; /* Tamanho da fonte do texto do cartão */
+}
+
+.btn {
+  background-color: #007BFF; /* Cor de fundo do botão */
+  color: #fff; /* Cor do texto do botão */
+  border: none; /* Remova as bordas do botão */
+  border-radius: 0; /* Remova os cantos arredondados do botão */
+}
+
+.btn:hover {
+  background-color: #0056b3; /* Cor de fundo do botão ao passar o mouse */
+}
