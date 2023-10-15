@@ -38,6 +38,14 @@ body {
   background-color: #0056b3; /* Cor de fundo do botão ao passar o mouse */
 }
 
+.card img{
+  width: 100%;
+}
+
+.row{
+  justify-content: center;
+}
+
 .btn-google img{
-  width:100%;
+  width: 100%;
 }
