@@ -12,6 +12,10 @@ body {
   margin-top: 20px;
 }
 
+.logo {
+  width:250px;
+}
+
 .card {
   background-color: #444;
   color: #fff;
