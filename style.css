@@ -59,3 +59,9 @@ body {
 .btn-google img {
   width: 100%;
 }
+
+.rodape{
+  border-top: thin solid #333
+  padding:10px;
+  color:#222;
+}
