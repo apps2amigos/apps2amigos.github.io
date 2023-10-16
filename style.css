@@ -17,13 +17,20 @@ body {
 }
 
 .card {
-  background-color: #f1f1f1;
+    background-color: #f1f1f1;
     color: #111;
     border: none;
     border-radius: 0;
     margin-bottom: 20px;
     border: thin solid #666;
     border-radius: 20px;
+    overflow: hidden;
+}
+.privacy {
+    color: #111;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 20px;
     overflow: hidden;
 }
 
