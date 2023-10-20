@@ -23,6 +23,7 @@ a{color: coral;}
   flex-direction: row;
   justify-content: space-between;
 }
+.badge-icons img{width: 100px;}
 
 .badge-icons a{
   padding:10px;
