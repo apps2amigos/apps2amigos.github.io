@@ -12,6 +12,13 @@ body {
 
 a{color: coral;}
 
+.badge-icons {
+      position: fixed;
+      top: 10px; /* Posição a partir do topo */
+      right: 10px; /* Posição a partir da direita */
+      z-index: 1000; /* Para garantir que os ícones fiquem na parte superior */
+    }
+
 .container {
   margin-top: 20px;
 }
